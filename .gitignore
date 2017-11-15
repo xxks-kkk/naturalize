@@ -1,2 +1,15 @@
-/bin
-/target
+*~
+*.pyc
+logs/
+.vscode/
+*.blg
+*.log
+*.bbl
+*.out
+*.aux
+*.synctex.gz
+target/
+runParameters.txt
+.idea/
+lib/
+*.iml
